@@ -13,7 +13,5 @@ public class EntradaYSalidaDatos {
 		System.out.print("El numero es: " + numero);
 		entrada.close();
 
-	
 	}
-
 }
