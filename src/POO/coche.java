@@ -17,6 +17,7 @@ public class coche {
 		System.out.println("El color del coche 1 es: "+ coche1.color);
 		System.out.println("La marca del coche 1 es: "+ coche1.marca);
 		System.out.println("El km del coche 1 es: "+ coche1.km);
+		System.out.println();
 		
 		coche Coche2 = new coche();
 		
