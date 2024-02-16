@@ -5,15 +5,15 @@ public class persona {
 	int edad;
 
 	// Metodo constructor
-	public persona(String _nombre, int _edad) {
-		nombre = _nombre;
-		edad = _edad;
+	public persona(String nombre, int edad) {
+		this.nombre = nombre;
+		this.edad = edad;
 
 	}
-	
+
 	public void mostrarDatos() {
 		System.out.println("El nombre es: " + nombre);
-		System.out.println("La edad es: "+ edad);
+		System.out.println("La edad es: " + edad);
 	}
 
 }
