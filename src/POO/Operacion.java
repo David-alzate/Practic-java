@@ -1,6 +1,5 @@
 package POO;
 
-import javax.swing.JOptionPane;
 
 public class Operacion {
 	
